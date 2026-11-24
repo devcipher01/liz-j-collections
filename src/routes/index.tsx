@@ -401,7 +401,7 @@ function Index() {
       </footer>
 
       <Dialog open={cartOpen} onOpenChange={setCartOpen}>
-        <DialogContent className="cart-panel translate-x-0 translate-y-0"">
+        <DialogContent className="cart-panel translate-x-0 translate-y-0">
           <div className="cart-panel-heading">
             <DialogHeader>
               <DialogTitle className="cart-title">Your bag</DialogTitle>
